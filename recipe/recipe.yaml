@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: 1.0.0b260721
+  version: "1.0.0b261002"
 
 package:
   name: agent-framework-azure-ai-search
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/agent-framework-azure-ai-search/agent_framework_azure_ai_search-${{ version }}.tar.gz
-  sha256: 867d8ab961112034251e4efb4e7133e5b26336b225a051ff9b70058ae33a8b9e
+  sha256: 2c6538f9d8667cf8c451d80c562949212ce4d8a5bbf7fb1e88b97c56f7e2f261
 
 build:
   number: 0
